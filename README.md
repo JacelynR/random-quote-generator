@@ -1,4 +1,4 @@
-### FreeCodeCamp Responsive Web Design Certification
+FreeCodeCamp Front End Development Certification
 
 Original project submitted on Codepen: https://codepen.io/JacelynR/pen/wGPJGZ
 
